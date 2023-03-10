@@ -17,8 +17,8 @@ margin: -75px 0 0 -75px;
 
 border: 10px solid #030f36;
 border-radius: 50%;
-border-top: 10px solid #b8b8b8;
-border-left: 10px solid #b8b8b8;
+border-top: 10px solid #000000;
+border-left: 10px solid #000000;
 width: 120px;
 height: 120px;
 animation: spin 1s linear infinite;
@@ -43,7 +43,7 @@ left: 50%;
 
 font-size: 45px;
 font-family: sans-serif;
-color: #b8b8b8;
+color: #030f36;
 
 transform: translate(-50%, -50%);
 }
